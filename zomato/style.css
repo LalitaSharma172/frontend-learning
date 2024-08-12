@@ -1,0 +1,421 @@
+#zomato{
+    background-image: cover;
+background-repeat: no-repeat
+}
+#body{
+    overflow: hidden;
+}
+#logo{
+    position:absolute;
+    top: 160px;
+    margin-left:560px;
+    /* font-size: 1200px;
+    font-weight: 800px; */
+}  
+#list{
+    position:relative;
+    display:flex;
+    list-style-type: none;
+}
+#head{
+    position:absolute;
+    top:260px;
+    color:white;
+    left:360px;
+    font-size: 45px;
+    
+}
+#l1{
+    position: relative;
+    top:-655px;
+    left:680px;
+    color:white;
+    font-size: 25px;
+    font-weight: 600;
+
+}#l2{
+    position: relative;
+    top:-655px;
+    left:730px;
+    color:white;
+    font-size: 25px;
+    font-weight: 600;
+
+}#l3{
+    position: relative;
+    top:-655px;
+    left:810px;
+    color:white;
+    font-size: 25px;
+    font-weight: 600;
+
+}#l4{
+    position: relative;
+    top:-655px;
+    left:880px;
+    color:white;
+    font-size: 25px;
+    font-weight: 600;
+
+}#l5{
+    position: relative;
+    top:-655px;
+    left:-380px;
+    color:white;
+    font-size: 25px;
+    font-weight: 600;
+
+
+}
+#pg2{
+    position: relative;
+    top:-60px;
+    left:230px;
+    display:flex;
+    gap:40px;
+
+
+}
+#img1{
+    
+    height: 225px;
+    width: 315px;
+    border: 2px solid grey;
+    border-radius: 25px;
+    top: 20px;
+
+}
+#mg1{position: relative;
+    /* TOP:-10;
+    left:; */
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    height: 155px;
+    width:315px;
+}
+p{
+    position: relative;
+    TOP:-30px;
+    text-align: center;
+    font-weight: 600;
+    font-size:27px ;
+}
+span{ position: relative;
+    TOP:-50px;
+     left:10px;
+       text-align: center;
+    font-weight: 400;
+    font-size:20px;
+
+
+}
+#img2{
+    height: 225px;
+    width: 315px;
+    border: 2px solid grey;
+    border-radius: 25px;
+
+}
+#mg2{position: relative;
+    TOP:0px;
+    /* left: 30px; */
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    height: 155px;
+     width:315px;
+}
+#img3{
+    height: 225px;
+    width: 315px;
+    border: 2px solid grey;
+    border-radius: 25px;
+
+}#mg3{
+    position: relative;
+    TOP:-0px;
+    left:px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    height: 155px;
+     width:315px;
+} 
+#collect{
+    position: relative;
+    left:-405px;
+    font-size: 45px;
+    font-weight: 600;
+}
+#top{
+  position: relative;
+  top:-50px;
+    left:200px;
+    font-size: 23px;
+}
+#ncr{  position: relative;
+    top:-80px;
+      left:1160px;
+      font-size: 18px;
+     color: red;
+
+}
+#a{position: relative;
+    TOP:-60px;
+    left:210px;
+
+}
+#trend{
+    position:absolute ;
+    color:white;
+    top:260px;
+    left:30px;
+    font-size: 25px;
+
+}
+#place{position:absolute ;
+    top:280px;
+    left:40px;
+
+
+}
+#xy{
+    color: white;
+    outline:none ;
+
+}
+
+#b{position: relative;
+    top:-416px;
+    left:520px;
+
+}
+#worthy{    position:absolute ;
+    color:white;
+    top:260px;
+    left:20px;
+    font-size: 24px;
+
+
+
+
+}
+#xy{
+    color: white;
+    outline:none ;
+
+}
+#c{position: relative;
+    TOP: -770px;
+    left: 830px;
+
+}
+#open{ position:absolute ;
+    color:white;
+    top:260px;
+    left:30px;
+    font-size: 25px;
+}
+#xy{
+    color: white;
+    outline:none ;
+
+}
+
+#im1{
+    border-radius:5px;
+}
+#im2{
+    border-radius:5px;
+}
+    #im3{
+        border-radius:5px;
+    }
+    #pop{
+        position: relative;
+        top:-730px;
+        font-size:50px;
+        left:-110px;
+        font-weight: 100;
+
+    }
+     
+     #con{
+        position: relative;
+        top:10px;
+
+    
+         font-size: 24px;
+        font-family: "Nanum Myeongjo", serif;
+        
+      
+    } 
+    #for{
+    position:abslotute ; 
+    left:150px;
+    top:-52px;
+
+    }
+    #for1{
+        position:abslotute ;
+        left:150px;
+        top:-23px;
+    
+        }
+    #div1{
+        position: relative;
+            top:-735px;
+            left:200px;
+            height: 70px;
+            width: 360px;
+            border:2px solid grey;
+            border-radius: 15px;
+    
+        } 
+    
+    #div2{position: relative;
+        top:-810px;
+        left:600px;
+        height: 70px;
+        width: 360px;
+        border:2px solid grey;
+        border-radius: 15px;
+
+    }
+    #div3{position: relative;
+        top: -885px;
+        left:1000px;
+        height: 70px;
+        width: 360px;
+        border:2px solid grey;
+        border-radius: 15px;
+
+    }
+    #div4{position: relative;
+        top:-855px;
+        left:200px;
+        height: 70px;
+        width: 360px;
+        border:2px solid grey;
+        border-radius: 15px;
+
+    }
+    #div5{position: relative;
+        top:-930px;
+        left:600px;
+        height: 70px;
+        width: 360px;
+        border:2px solid grey;
+        border-radius: 15px;
+
+    }
+    #div6{position: relative;
+        top:-1005px;
+        left:1000px;
+        height: 70px;
+        width: 360px;
+        border:2px solid grey;
+        border-radius: 15px;
+
+    }
+    #div7{
+
+        position: relative;
+        top:-975px;
+        left:200px;
+        height: 70px;
+        width: 360px;
+        border:2px solid grey;
+        border-radius: 15px;
+
+    }
+    #div8{position: relative;
+        top:-1048px;
+        left:600px;
+        height: 70px;
+        width: 360px;
+        border:2px solid grey;
+        border-radius: 15px;
+
+    }
+    #div9{position: relative;
+        top:-1120px;
+        left:1000px;
+        height: 70px;
+        width: 360px;
+        border:2px solid grey;
+        border-radius: 15px;
+    }
+    #phone{
+        position: relative;
+        top:-885px;
+        left:370px;
+    }
+   #get{
+    position: relative;
+    left:205px;
+    top:-1320px;
+    font-size: 55px;
+    font-weight: 100;
+   }
+   #link{
+    position: relative;
+    top:-1346px;
+    left:735px;
+    font-size: 20px;
+    font:none;
+    color:rgb(128, 128, 128);
+
+
+   }
+   #email{position: relative;
+    top:-1270px;
+    left:650px;
+    font-size:45px; 
+    color:rgb(128, 128, 128);
+    
+   }
+
+   #ph{position: relative;
+    top:-1275px;
+    left:767px;
+    font-size:40px; 
+    color:rgb(128, 128, 128);
+
+
+
+   }
+   #radio{position: relative;
+    top:-1280px;
+    left: 740px;
+    font-size:28px;
+    
+
+   }
+   #radi{
+    position: relative;
+    top: -1280px;
+    left:640px;
+    
+
+   }
+   #emg{
+    height: 500px;
+    width: 800px;
+    position: relative;
+    top: -1250px;
+    left: 720px;
+    transition: all 0.2s ease 0s;
+    color: rgb(181, 181, 181);
+    /* top: 13px;
+    left: 14px;
+    font-size: 18px; */
+    background: rgb(255, 255, 255);
+    overflow: hidden;
+   }
+ input::placeholder{
+    width:1000px;
+    height: 60px;
+ }
+   
+   
+   
+

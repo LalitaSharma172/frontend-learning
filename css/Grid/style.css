@@ -1,0 +1,202 @@
+#parent{
+    display: grid;
+    border: 2px solid red;
+    /* grid-template-columns:250px 250px 250px; */
+    /* column-gap: 20px;
+    row-gap: 30px; */
+    /* gap:20px 30px; */
+    /* gap: 20px; */
+    /* grid-template-columns:250px 300px 100px 150px 150px; */
+    /* grid-template-columns:300px 300px 300px 300px;  */
+
+    margin-left: 150px;
+    /* grid-template-areas: 'a a a'
+                           'b c c' 
+                           'b d e '
+                             'f f f';
+     grid-template-rows: 150px 150px 150px 150px; */
+     /* grid-template-areas: 'a b c d e'
+                           'f g g d e';
+     grid-template-rows: 200px 250px; */
+     /* grid-template-areas: 'a b  b'
+                           'a c d'
+                           'e c f';
+     grid-template-rows: 120px 120px 120px; */
+     grid-template-areas: 'a b  b c'
+                           'a d e f'
+                           'a g h f';
+     grid-template-rows: 200px 200px 200px; 
+
+
+
+
+
+}
+
+
+#parent>div{
+    /* width: 150px;
+    height: 150px; */
+    border: 2px solid blue;
+    text-align: center;
+    font-size: 30px;
+    line-height: 100px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+ .child1{
+    grid-area: a;
+    background-color: green;
+    margin: 10px;
+}
+.child2{
+    grid-area: b;
+    background-color: green;
+    margin: 10px;
+}
+.child3{
+    grid-area: c;
+    background-color: red;
+    margin: 10px;
+}
+.child4{
+    grid-area: d;
+    background-color: orange;
+    margin: 10px;
+}
+.child5{
+    grid-area: e;
+    background-color: red;
+    margin: 10px;
+}
+.child6{
+    grid-area: f;
+    background-color: green;
+    margin: 10px;
+}
+.child7{
+    grid-area: g;
+    background-color: red;
+    margin: 10px;
+}
+.child8{
+    grid-area: h;
+    background-color: orange; 
+     margin: 10px;
+} 
+/*.child1{
+    grid-column-start: 1;
+  grid-column-end: 5;
+
+
+  grid-row-start: 1;
+  grid-row-end: 4;
+} */
+ /* .child1{
+    grid-area: a;
+    background-color: rgb(193, 92, 243);
+    margin:10px;
+}
+.child2{
+    grid-area: b;
+    background-color: rgb(118, 94, 234);
+    margin:10px;
+}
+.child3{
+    grid-area: c;
+    background-color: rgb(112, 86, 229);
+    margin:10px;
+}
+.child4{
+    grid-area: d;
+    background-color:skyblue;
+    margin:10px;
+}
+.child5{
+    grid-area: e;
+    background-color: rgb(96, 96, 224);
+    margin:10px;
+}
+.child6{
+    grid-area: f;
+    background-color: rgb(193, 92, 243);
+    margin:10px;
+} */
+
+
+
+
+
+ /*.child1{
+    grid-area: a;
+    background-color: rgb(249, 9, 189);
+    margin:10px;
+}
+.child2{
+    grid-area: b;
+    background-color: rgb(113, 202, 237);
+    margin:10px;
+}
+.child3{
+    grid-area: c;
+    background-color: aqua;
+    margin:10px;
+}
+.child4{
+    grid-area: d;
+    background-color:rgb(10, 179, 245);
+    margin:10px;
+}
+.child5{
+    grid-area: e;
+    background-color: rgb(75, 75, 221);
+    margin:10px;
+}
+.child6{
+    grid-area: f;
+    background-color: orange;
+    margin:10px;
+} 
+.child7{
+    grid-area: g;
+    background-color: lightpink;
+    margin:10px;
+} 
+    */
+
+
+ 
+ /* .child1{
+    grid-area: a;
+    background-color: rgb(15, 176, 239);
+    margin:10px;
+}
+.child2{
+    grid-area: b;
+    background-color: rgb(113, 202, 237);
+    margin:10px;
+}
+.child3{
+    grid-area: c;
+    background-color:rgb(216, 119, 119);;
+    margin:10px;
+}
+.child4{
+    grid-area: d;
+    background-color: rgb(168, 4, 105);
+    margin:10px;
+}
+.child5{
+    grid-area: e;
+    background-color: rgb(75, 75, 221);
+    margin:10px;
+}
+.child6{
+    grid-area: f;
+    background-color: orange;
+    margin:10px;
+} 
+
+ 
+  */

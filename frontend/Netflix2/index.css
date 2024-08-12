@@ -1,0 +1,97 @@
+ #abx{
+    position: relative;
+    top: -387px;
+    z-index: -1;
+    left: 78px;
+} 
+
+/*#a{
+    width: 100px;
+    height: 100px;
+    z-index:-3;
+    position: absolute;
+    /* border: 2px solid red; */
+   /* background-color: yellow;
+}
+
+#b{
+    width: 100px;
+    z-index: 1;
+    top: 70px;
+    height: 100px;
+    /* border: 2px solid red; */
+ /*   position: absolute;
+    background-color: rgb(19, 211, 54);
+}
+
+#c{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    z-index: -3;
+    left: 30px;
+    /* border: 2px solid red; */
+   /* background-color: rgb(222, 7, 35);
+}
+
+
+
+
+
+
+/* 
+descendant selector (space)
+
+
+/* div{
+    color:red;
+} */
+
+/* div p{
+    color:red;
+} */
+
+/* child selector (>) */
+/* 
+div>p{
+    color:blue;
+} */
+
+
+/* adjacent sibling selector (+) */
+/*div+p{
+    color:green;
+    background-color: yellow;
+} */
+
+
+/* general sibling selector (~) */ 
+ 
+/*div~p{
+    color:blueviolet;
+} 
+
+body{
+    background-image: url('https://deep-image.ai/blog/content/images/size/w1600/2022/08/magic-g1db898374_1920.jpg');
+}
+
+#abc{
+    width: 400px;
+    height: 400px;
+    border: 3px solid blue;
+    /* background-color: green; */
+    /* background: rgba(8, 8, 203,0.5); */
+   /* margin: 100px auto;
+    /* background: linear-gradient(290deg,red 5%,green,blue); */
+/* 
+    background: repeating-linear-gradient(green,red,blue,green,red,blue,green,red,blue); */
+/* 
+background: radial-gradient(red 55%,green 30%,blue 20%); */
+
+/*border-radius: 50%;
+/* background: repeating-radial-gradient(red 5%,green 8%,blue 9%,yellow 3%,black 7%); */
+
+/* background: conic-gradient(red 5%,green 7%,blue 8%); */
+
+/*background: repeating-conic-gradient(red -7%,green 5%,blue 7%,yellow 8%,black 19%);
+}

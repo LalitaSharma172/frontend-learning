@@ -1,0 +1,18 @@
+#parent{
+    /* width: 200px;
+    height: 200px; */
+    display: flex;
+    border: 2px solid red;
+    height: 700px;
+}
+
+#parent>div{
+    width: 150px;
+    height: 150px;
+    border: 2px solid blue;
+    text-align: center;
+    font-size: 40px;
+    line-height: 150px;
+
+}
+

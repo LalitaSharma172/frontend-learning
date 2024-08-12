@@ -1,0 +1,106 @@
+#container{
+    /* opacity: 0.5; */
+    width: 600px;
+    height: 600px;
+   /* border: 3px solid red;*/
+        margin: 100px auto;
+    background-color: rgb(238, 245, 239);
+    text-align: center;
+    font-size: 50px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+
+
+/*input[type=text]{
+   border: none;
+   outline: none;*/
+
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(17, 194, 47);
+    font-weight: 900;
+}
+body{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 100%, rgba(0, 0, 0, 0.8) 100%), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd2_3PLA0Jae2BBJ9y7F6dpBjFrOy1mCXxcA&s');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+}
+#firstpage{
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    
+
+}
+#secondpage
+{
+    font-size: 55px;
+    position: relative;
+    text-align: center;
+    
+}
+#thirdpage{
+    font-size: 55px;
+    position: relative;
+    text-align: center;
+    
+
+}
+/*input[type=password]{
+    border: none;
+    outline: none;*/
+ 
+
+
+#fourthpage{
+    font-size: 50px;
+    position: relative;
+    text-align: center;
+    
+
+
+}
+/*input[type=yourcompanywebsite]{
+    border: none;
+    outline: none;*/
+    
+
+
+
+#fifthpage{
+    font-size: 50px;
+    position: relative;
+    text-align: center;
+    
+
+
+}
+/*input[type=mobilephonenumber]{
+    border: none;
+    outline: none;*/
+    
+
+
+
+#para{
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    display: block;
+    
+
+}
+#notamember{
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    display: block;
+
+}

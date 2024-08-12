@@ -1,0 +1,99 @@
+ Universal Selector 
+ *{
+    background-color: blue;
+}
+
+h1{
+    color:white;
+} 
+
+ID Selector 
+ #abc{
+    color:red;
+} 
+
+ Class Selector 
+.xyz{
+    color:white;
+} 
+
+Type Selector or grouping selector 
+h3,h4,h5{
+    background-color: yellow;
+    text-align: center;
+
+color:red;} 
+ Adjacent Sibling Selector 
+ h1+p{
+    color:red;
+    background-color: yellow;
+} 
+ Child Selector 
+General Sibling Selector 
+ Descendant Selector 
+
+
+div ul li{
+    color:red;
+    background-color: yellow;
+    font-size: 40px;
+    list-style-type: none;
+} 
+ div~p{
+    color:red;
+    background-color: yellow;
+} 
+
+
+ Attribute Selector 
+ input{ 
+     margin: 100px auto; 
+     width: 300px;
+    height: 40px;
+    font-size: 40px;
+    border: none;
+    outline: none;
+    border-bottom: 3px dashed red;
+}
+
+input[type=text]{
+    color: aliceblue;
+    background-color: blue;
+}
+
+::placeholder{
+    color:white;
+} 
+
+ #abc{
+    width: 300px; 
+    margin:20px 30px 40px 20px; 
+     margin-left: 50px; 
+     margin-top: 50px; 
+     padding:30px 20px 10px 50px; 
+     height: 300px; 
+
+     border: 3px solid red; 
+     border-radius: 50%;
+    border:none; 
+     border-bottom: 4px solid blue; 
+    box-shadow: 10px 20px 30px red;
+    background-color: peru;
+} 
+ #ab{
+    width: 0; 
+    height: 0; 
+    border-top: 100px solid transparent;
+    border-bottom:100px solid transparent;
+    
+    border-right: 100px solid rgb(232, 41, 41);
+
+
+} 
+
+#y{
+    font-size: 40px;
+text-align: center;
+color:red;
+text-shadow: 10px 20px 55px green;
+}

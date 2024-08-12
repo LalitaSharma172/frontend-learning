@@ -1,0 +1,138 @@
+/* transition
+transition-delay
+transition-duration
+transition-property
+transition-timing-function */
+/* 
+#xyz{
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+   
+    background-color: blue;
+    transition: width 2s ease 1s;
+}
+
+#xyz:hover{
+    width: 500px; */
+    /* height: 500px;
+    transform:rotateZ(-120deg) */
+    
+/* } */
+
+/* 
+#gfg {
+    width: 300px;
+    height: 100px;
+    border: 3px solid red;
+    animation-name: lalita;
+    animation-duration: 5s;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@keyframes lalita { */
+    /* 0% {
+        background-color: orange;
+    }
+
+    50% {
+        background-color: rgb(246, 243, 236);
+    }
+
+    100% {
+        background-color: green;
+    } */
+
+/* 
+    0% {
+        transform:  (0);
+    }
+
+    100% {
+        transform: translateX(1200px);
+    }
+} */
+
+
+
+
+/* 
+
+h2 {
+    width: 350px;
+    animation-name: text;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+    background-color: rgb(255, 210, 85);
+}
+
+#one {
+    animation-timing-function: ease;
+}
+
+#two {
+    animation-timing-function: linear;
+}
+
+#three {
+    animation-timing-function: ease-in;
+}
+
+#four {
+    animation-timing-function: ease-out;
+}
+
+#five {
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes text {
+    from {
+        margin-left: 60%;
+    }
+
+    to {
+        margin-left: 0%;
+    }
+} */
+
+/* 
+#one {
+    animation-name: example;
+    animation-duration: 10s;
+}
+
+#two {
+    animation-name: example;
+    animation-duration: 10s;
+    animation-delay: 10s;
+}
+
+@keyframes example {
+    from {
+        background-color: orange;
+    }
+
+    to {
+        background-color: white;
+    }
+} */
+
+
+
+div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: relative;
+    animation: mymove 3s;
+    animation-fill-mode: backwards;
+  }
+@keyframes mymove {
+    from {top: 200px;
+    background-color: red;}
+    to {top: 0px;
+         background-color: blue;}
+  }

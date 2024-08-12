@@ -1,0 +1,42 @@
+h1{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    color: rgb(37, 220, 33);
+    font-weight: bold;
+    text-align: center;
+    
+}
+button{
+    color: rgb(220, 33, 192);
+    text-align: center;
+    background-color: rgb(234, 234, 217);
+
+}
+body{
+    background-color: rgb(30, 161, 187);
+} 
+/* selectors */
+/* universal selector */
+*{
+    color: red;
+} 
+/* element selector */
+ h1{
+    color:blue
+} 
+/* id selector */
+ #abc{
+    color: pink;
+} 
+/* class selector */
+ .ab{
+    color: rgb(244, 248, 244);
+} 
+ #box{
+    color: #c2c2cd;
+    font-weight: bold;
+    background-color: blue;
+ }
